@@ -8,8 +8,38 @@ The project is no more maintenaned/updated. It can't be used in production.
 ## Installation
 -
 
-
 ## Client
+
+## Features
+- Login
+  - Versioning
+  - Authentification
+  - Coach creation
+- Game
+  - Spawn on a map
+  - Free moving
+  - Chat with players
+    - Public message
+    - Private message
+  - Coach equipment
+  - Admin commands
+    - Teleport
+    - Cards creation
+    - Etc
+  - Team
+    - Listing
+    - Creating
+    - Deleting
+    - Updating
+  - Fighter
+    - Listing information
+    - Creating
+    - Deleting
+    - Inventory and spell update
+  - Search opponent
+    - Accept
+    - Cancel
+  - Ready for fight (team selection)
 
 You can [download the client](http://www.mediafire.com/file/ktwlzay8svbbuiv/DofusArena2.zip/file) which is specific for this build.
 
