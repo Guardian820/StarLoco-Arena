@@ -10,6 +10,8 @@ The project is no more maintenaned/updated. It can't be used in production.
 
 ## Client
 
+You can [download the client](http://www.mediafire.com/file/ktwlzay8svbbuiv/DofusArena2.zip/file) which is specific for this build.
+
 ## Features
 - Login
   - Versioning
@@ -40,8 +42,6 @@ The project is no more maintenaned/updated. It can't be used in production.
     - Accept
     - Cancel
   - Ready for fight (team selection)
-
-You can [download the client](http://www.mediafire.com/file/ktwlzay8svbbuiv/DofusArena2.zip/file) which is specific for this build.
 
 ## Pictures
 
