@@ -3,10 +3,22 @@
 # StarLoco Arena
 
 StarLoco Arena is a basic emulator for dofus arena v2.04 (build 7025) made in Java 8.
-The project is no more maintenaned/updated. It can't be used in production.
+The project is no more maintenaned/updated. It can't be used in production (demo version).
+
+## Configuration
+
+- Server :
+  - Edit the configuration file of the database (https://github.com/F-Locos/StarLoco-Arena/blob/master/src/org/ankarton/database/Database.java)
+- Client :
+  - Edit the configuration to use the right IP/Port of the server.
 
 ## Installation
--
+
+Just compile the project and run the generated jar file. 
+The database will be automatically created.
+Add an account, and log-in to the game.
+
+Enjoy!
 
 ## Client
 
